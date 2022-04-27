@@ -1,2 +1,2 @@
-# aula_bootstrap
-utilizando bootstrap
+# Primeira aula de Bootstrap
+utilizando bootstrap (SEM JAVASCRIPT)
